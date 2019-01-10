@@ -1,0 +1,26 @@
+body{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  background: url(images/bloombg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  color: white;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
+.bg{
+  background-color: #e74c3c;
+  opacity: 0.9;
+}
+.rowHeight{
+  height: 250px;
+}
+.ftr{
+  position: fixed;
+  bottom: 0;
+  background: #eb4d4b;
+  width: 100%;
+  color: white;
+}

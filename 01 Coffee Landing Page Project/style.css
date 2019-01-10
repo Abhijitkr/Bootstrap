@@ -1,0 +1,16 @@
+body{
+  background: url(images/coffee-beans-2258839_12802.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.hero{
+  text-align: center;
+  font-size: 75px;
+  margin-top: 15%;
+  letter-spacing: -0.07em;
+  color: #4C4B4B;
+  font-family: 'Courgette', cursive;
+}
+img{
+  width: 300px;
+  height: 200px;
+}

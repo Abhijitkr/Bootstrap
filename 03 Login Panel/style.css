@@ -1,0 +1,16 @@
+body{
+  background: url(images/boat.jpeg) center center fixed no-repeat;
+  background-size: cover;
+}
+.boat{
+  width: 200px;
+  height: 100px;
+  margin:auto;
+}
+.butt{
+  position: absolute;
+  left: 20px;
+}
+div{
+  padding: 7px;
+}
